@@ -1,0 +1,18 @@
+.ub-rate-post {
+    padding: 10px 0;
+}
+
+.ub-rate-post .rs-rating ,
+.ub-rate-post .ub-rate-meta {
+    display: inline-block;
+    vertical-align: bottom;
+	margin: 0;
+}
+.ub-rate-post .rs-rater ,
+.ub-rate-post .rs-rater .rs-rater-slide ,
+.ub-rate-post .rs-rater .rs-rater-star {
+	background-image: url('images/star.png');
+}
+.ub-rate-post .rs-rating {
+	margin-left: 5px;
+}

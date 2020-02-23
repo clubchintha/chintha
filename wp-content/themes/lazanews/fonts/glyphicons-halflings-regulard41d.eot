@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+				
+	<!-- Mobile Specific Metas
+	================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://lazathemes.com/demo/lazanews/xmlrpc.php">
+	
+	<!-- Favicons
+    ================================================== -->
+		<link rel="shortcut icon" href="http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/images/favicon.ico" type="image/x-icon">
+	
+		<link rel="apple-touch-icon" href="http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/images/apple-touch-icon.png">
+	
+		<link rel="apple-touch-icon" sizes="72x72" href="http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/images/apple-touch-icon-72x72.png">
+	
+		<link rel="apple-touch-icon" sizes="114x114" href="http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/images/apple-touch-icon-114x114.png">
+		
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+	<title>Page not found | Laza News</title>
+<script type="text/javascript" id="rs-js-common"> rs = {"wordpress":{"version":"4.2.25","home_url":"http:\/\/lazathemes.com\/demo\/lazanews\/","admin_url":"http:\/\/lazathemes.com\/demo\/lazanews\/wp-admin\/","admin_ajax_url":"http:\/\/lazathemes.com\/demo\/lazanews\/wp-admin\/admin-ajax.php","template_url":"http:\/\/lazathemes.com\/demo\/lazanews\/wp-content\/themes\/lazanews","is_admin":false,"is_home":false},"php":{"version":"5.6.30","session_id":"437da10323935ef3dd1d2fd7a93af7aa"},"controls":{"meta_prefix":"rs-"},"lib":{"url":"http:\/\/lazathemes.com\/demo\/lazanews\/wp-content\/themes\/lazanews\/rslib","path":"\/home2\/tf2015\/public_html\/lazathemes.com\/demo\/lazanews\/wp-content\/themes\/lazanews\/rslib","version":"2.1.4"}}</script>
+<link rel="alternate" type="application/rss+xml" title="Laza News &raquo; Feed" href="http://lazathemes.com/demo/lazanews/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Laza News &raquo; Comments Feed" href="http://lazathemes.com/demo/lazanews/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/lazathemes.com\/demo\/lazanews\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.25"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='style-bootstrap-css'  href='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/css/bootstrap.css?ver=2015' type='text/css' media='screen' />
+<link rel='stylesheet' id='style-pgwSlider-css'  href='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/PgwSlider-master/pgwslider.min.css?ver=2015' type='text/css' media='screen' />
+<link rel='stylesheet' id='style-bxslider-css'  href='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/bxslider/jquery.bxslider.css?ver=2015' type='text/css' media='screen' />
+<link rel='stylesheet' id='style-rswp-css'  href='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/css/rs-wp-v1.2.css?ver=2015' type='text/css' media='screen' />
+<link rel='stylesheet' id='css-fancybox-css'  href='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/fancybox/jquery.fancybox.css?ver=4.2.25' type='text/css' media='all' />
+<link rel='stylesheet' id='style-royalslider-css'  href='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/royalslider/royalslider.css?ver=2015' type='text/css' media='screen' />
+<link rel='stylesheet' id='style-royalslider-default-css'  href='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/royalslider/skins/default/rs-default.css?ver=2015' type='text/css' media='screen' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://lazathemes.com/demo/lazanews/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=4.12' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='http://lazathemes.com/demo/lazanews/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.16.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://lazathemes.com/demo/lazanews/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.2.25' type='text/css' media='all' />
+<link rel='stylesheet' id='style-header-css'  href='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/css/header.css?ver=2015' type='text/css' media='screen' />
+<link rel='stylesheet' id='style-main-css'  href='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/css/style.css?ver=2015' type='text/css' media='screen' />
+<link rel='stylesheet' id='style-header-response-css'  href='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/css/header-response.css?ver=2015' type='text/css' media='screen' />
+<link rel='stylesheet' id='style-responsiveness-css'  href='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/css/different-device.css?ver=2015' type='text/css' media='screen' />
+<link rel='stylesheet' id='style-css'  href='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/style.css?ver=4.2.25' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://lazathemes.com/demo/lazanews/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-page-style-css'  href='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/rslib/minify/load.php?load=styles&#038;k=9dd6fda020bf0dde16b10b4fab4b4f86&#038;ver=4.2.25' type='text/css' media='all' />
+<link rel='stylesheet' id='font-for-frontend-css'  href='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/rslib/customize/rst-writerCSS.min.css?ver=4.2.25' type='text/css' media='all' />
+<link rel='stylesheet' id='css-rating-css'  href='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/inc/rating/rating.css?ver=4.2.25' type='text/css' media='all' />
+<link rel='stylesheet' id='style-menu-mega-animate-css'  href='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/inc/menu-mega/css/animate.css?ver=4.2.25' type='text/css' media='all' />
+<link rel='stylesheet' id='googleFonts-Open-Sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C600%2C700&#038;ver=4.2.25' type='text/css' media='all' />
+<link rel='stylesheet' id='googleFonts-Lato-css'  href='http://fonts.googleapis.com/css?family=Lato%3A400%2C700%2C900&#038;ver=4.2.25' type='text/css' media='all' />
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/rslib/scripts/modernizr.min.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/rslib/scripts/rs.common.min.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/rslib/controls/group/group.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/header.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/header-sticky.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/html5shiv-printshiv.js?ver=4.2.25'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://lazathemes.com/demo/lazanews/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://lazathemes.com/demo/lazanews/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.25" />
+    <style type="text/css" id="customize-css">
+	
+					h3.widget-title,
+					h3.widget-title a,
+					h1.entry-title,
+					h1.page-title,
+					.td-search-query,
+					.social .fa:hover,
+					h2.rs-title-box span,
+					h3.widget-title span,
+					#header .rst-topbar .nav-topbar li a:hover, 
+					#header .social .rst-list-social li a:hover,
+					.comment-reply-title span,
+					.rst-nav-menu li li:hover > a,
+					.rst-nav-menu li .ub-mega-grid a:hover,
+					.widget_news ul.tab-post-new li.active a,
+					.comment-reply-link,
+					h2.rs-title-box,
+					.error-404 header h1,
+					.error-404 header h3 {
+						color: #ffba00;
+					}
+					blockquote,
+					h2.rs-title-box span:after,
+					h3.widget-title span:after,
+					.comment-reply-title span:after,
+					.widget_news ul.tab-post-new li.active a:before,
+					.main-menu.border-line,
+					.wp-pagenavi span.current, .wp-pagenavi a:hover {
+						border-color: #ffba00;
+					}
+					.breadcrumb > li.home:before {
+						border-left-color: #ffba00;
+					}
+					.rst-nav-menu > li:hover,
+					.rst-nav-menu > li.current-menu-item,
+					.ub-scroll-new .bx-wrapper .bx-next:hover,
+					.ub-scroll-new .bx-wrapper .bx-prev:hover,
+					.thumbnail-slider .bx-wrapper .bx-prev:hover,
+					.thumbnail-slider .bx-wrapper .bx-next:hover,
+					.top-footer .newsletter-widget form input[type="submit"],
+					.fancybox-button:hover,
+					.ub-tags a:hover,
+					.breadcrumb li.home,
+					.social .rst-breaking-news span.breaking,
+					.wp-pagenavi span.current, .wp-pagenavi a:hover,
+					.rst_ajax_load_more,
+					.error-404 .ub-button, 
+					.comment-respond form input[type="submit"] {
+						background-color: #ffba00;
+					}
+				a:hover, 
+					.widget a:hover, 
+					span.admin a:hover, 
+					span.date a:hover, 
+					span.category a:hover, 
+					span.comment a:hover, 
+					.ub-blog-post h4 a:hover, 
+					.widget_news .comment-text-side:hover,
+					.widget_news .info-post-new h5 a:hover,
+					.ub-box-horizontal-news .link ul li a:hover,
+					.rst-nav-menu a:hover, 
+					.rst-nav-menu li.rst-not-mega > ul li a:hover, 
+					.navigation a:hover, 
+					.comment-reply-link:hover{ color: #ffba00 }.rst-logo { padding-top: 10px }    </style>
+    <script type='text/javascript'>
+		function rst_blocks() {
+			this.atts = '';
+			this.url = '';
+		}
+		</script><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://lazathemes.com/demo/lazanews/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://lazathemes.com/demo/lazanews/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+
+<body class="error404 wpb-js-composer js-comp-ver-4.12 vc_responsive" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<div id="wrapper">
+	<!--========================= Header ========================= -->	
+		<div id="header" class="header-layout-1">
+		<div class="rst-topbar social">
+	<div class="pull-left">
+		<ul id="menu-topbar" class="nav-topbar"><li id="menu-item-1079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first rst-not-mega menu-item-1079"><a href="http://lazathemes.com/demo/lazanews/">Home</a></li>
+<li id="menu-item-1954" class="menu-item menu-item-type-post_type menu-item-object-page rst-not-mega menu-item-1954"><a href="http://lazathemes.com/demo/lazanews/typhography/">Typhography</a></li>
+<li id="menu-item-1085" class="menu-item menu-item-type-post_type menu-item-object-page rst-not-mega menu-item-1085"><a href="http://lazathemes.com/demo/lazanews/contact/">Contact</a></li>
+</ul>NULL
+<ul id="menu-topbar-1" class="nav-topbar"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first rst-not-mega menu-item-1079"><a href="http://lazathemes.com/demo/lazanews/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page rst-not-mega menu-item-1954"><a href="http://lazathemes.com/demo/lazanews/typhography/">Typhography</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page rst-not-mega menu-item-1085"><a href="http://lazathemes.com/demo/lazanews/contact/">Contact</a></li>
+</ul>	</div>
+	<div class="pull-right">
+		<ul class="rst-list-social">
+		<li><a target="_blank" href="#"><i class="fa fa-facebook"></i></a></li>
+			<li><a target="_blank" href="#"><i class="fa fa-google-plus"></i></a></li>
+			<li><a target="_blank" href="#"><i class="fa fa-twitter"></i></a></li>
+			<li><a target="_blank" href="#"><i class="fa fa-tumblr"></i></a></li>
+					<li><a target="_blank" href="#"><i class="fa fa-linkedin"></i></a></li>
+														</ul>	</div>
+</div><div class="top-header">
+  	<div class="row">
+		<div class="rst-logo sm-text-center col-sm-4 col-md-4">
+						<a href="http://lazathemes.com/demo/lazanews"><img src="http://lazathemes.com/demo/lazanews/wp-content/uploads/2015/07/logo.png" alt="Laza News"></a>
+					</div>
+		<!--main-menu-->
+    		<div class="rst-navigation text-right col-sm-8 col-md-8">
+			<div id="ubtheme-ads-widget-7" class="widget clearfix widget_ads"><div class="row list-adv clearfix"><div class="col-sm-12"><a href="#"><img src="http://lazathemes.com/demo/lazanews/wp-content/uploads/2015/07/adv.jpg" alt="" /></a></div></div></div>		</div>
+    		<!--/main-menu-->
+	</div>
+	<!--End-thumb-top-header-->
+</div>
+<div class="rows main-menu rst-top-main-menu-full border-line">
+	<form class="search-form" action="http://lazathemes.com/demo/lazanews">
+	<div class="ub-search">
+		<input type="text" placeholder="Search ..." name="s" />
+		<button type="submit" value="Search" class="sb"></button>
+		<input class="sb" type="submit" value="Search">
+	</div><!--End-search-->
+</form>	<nav role="navigation" class="navbar navbar-default" id="myNavbar"> 
+	 <div class="navbar-header">
+		<button data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle" type="button"> 
+			<span class="sr-only">Toggle navigation</span> 
+			<span class="icon-bar"></span> 
+			<span class="icon-bar"></span> 
+			<span class="icon-bar"></span>
+			<span class="text-menu-mobile">Menu</span>
+		</button>
+	 </div>
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div id="navbarCollapse" class="collapse navbar-collapse">
+			<div class="logo-fixed">
+							<a href="http://lazathemes.com/demo/lazanews">
+					<img src="http://lazathemes.com/demo/lazanews/wp-content/uploads/2015/07/logo_mini.png" alt="Laza News">
+				</a>
+						</div>
+			<ul id="menu-main-menu" class="rst-nav-menu clearfix"><li id="menu-item-1536" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first menu-item-has-children rst-mega-menu category_with_sub menu-item-1536"><a href="http://lazathemes.com/demo/lazanews/category/food-health/">Mega Menu</a><div class="ub-mega-grid sub-menu"><div class="ub-mega-child-cats"><a data-index="0" class="ub-terms-child active" href="javascript:;">All</a><script type="text/javascript">var rst_5dd25336cf6ce = new rst_blocks();rst_5dd25336cf6ce.atts = '{"posts_per_page":4,"category":"43"}';rst_5dd25336cf6ce.url = 'http://lazathemes.com/demo/lazanews/wp-admin/admin-ajax.php';</script><a data-index="1" data-key="rst_5dd25336cf6ce" class="ub-terms-child" href="http://lazathemes.com/demo/lazanews/category/food-health/drink/">Drink</a><script type="text/javascript">var rst_5dd25336cf7c5 = new rst_blocks();rst_5dd25336cf7c5.atts = '{"posts_per_page":4,"category":"20"}';rst_5dd25336cf7c5.url = 'http://lazathemes.com/demo/lazanews/wp-admin/admin-ajax.php';</script><a data-index="2" data-key="rst_5dd25336cf7c5" class="ub-terms-child" href="http://lazathemes.com/demo/lazanews/category/food-health/food/">Food</a><script type="text/javascript">var rst_5dd25336cf89d = new rst_blocks();rst_5dd25336cf89d.atts = '{"posts_per_page":4,"category":"23"}';rst_5dd25336cf89d.url = 'http://lazathemes.com/demo/lazanews/wp-admin/admin-ajax.php';</script><a data-index="3" data-key="rst_5dd25336cf89d" class="ub-terms-child" href="http://lazathemes.com/demo/lazanews/category/food-health/health/">Health</a></div><div class="rst-menu-posts"><div class="ub-loading">
+			<div class="loader">
+				<p><b>LOADING</b></p>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</div><div class="rst-list-post-of-category category-all active clearfix"><div class="ub-post-menu col-xs-3 col-md-3"><a href="http://lazathemes.com/demo/lazanews/560/"><div class="ub-thumbnail"><img src="http://lazathemes.com/demo/lazanews/wp-content/uploads/bfi_thumb/food1-2zgzi6zeyg6mwtfksuzke8.jpg" alt="Lorem ipsum dolor sit amet sectetuer adipiscing"/></div><span>Lorem ipsum dolor sit amet sectetuer adipiscing</span></a></div><div class="ub-post-menu col-xs-3 col-md-3"><a href="http://lazathemes.com/demo/lazanews/facilisis-at-vero-eros-et-accumsa/"><div class="ub-thumbnail"><img src="http://lazathemes.com/demo/lazanews/wp-content/uploads/bfi_thumb/food9-2zgzptwk2menmyn3k7i800.jpg" alt="Facilisis at vero eros et accumsan et iusto"/></div><span>Facilisis at vero eros et accumsan et iusto</span></a></div><div class="ub-post-menu col-xs-3 col-md-3"><a href="http://lazathemes.com/demo/lazanews/typi-non-habent-claritatem-insitam/"><div class="ub-thumbnail"><img src="http://lazathemes.com/demo/lazanews/wp-content/uploads/bfi_thumb/food8-2zgzoq7665z5fmrluh30u8.jpg" alt="legentis in iis qui facit eorum claritatem  investigationes"/></div><span>legentis in iis qui facit eorum claritatem  investigationes</span></a></div><div class="ub-post-menu col-xs-3 col-md-3"><a href="http://lazathemes.com/demo/lazanews/claritas-est-etiam-processus-dynamicus-qui-sequitur-mutationem/"><div class="ub-thumbnail"><img src="http://lazathemes.com/demo/lazanews/wp-content/uploads/bfi_thumb/food7-2zgzo538t0fijhd54y0v7k.jpg" alt="Claritas est etiam processus dynamicus, qui sequitur"/></div><span>Claritas est etiam processus dynamicus, qui sequitur</span></a></div></div><div class="rst-list-post-of-category category-drink"></div><div class="rst-list-post-of-category category-food"></div><div class="rst-list-post-of-category category-health"></div></div></div><a class="rst-display-none"></a></li>
+<li id="menu-item-1050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children rst-not-mega menu-item-1050"><a href="#">Post Formats</a>
+<ul class="sub-menu">
+	<li id="menu-item-1960" class="menu-item menu-item-type-post_type menu-item-object-post rst-not-mega menu-item-1960"><a href="http://lazathemes.com/demo/lazanews/ostrud-exerci-tation-ullamcorper-suscipit/">Standard Post</a></li>
+	<li id="menu-item-1950" class="menu-item menu-item-type-post_type menu-item-object-post rst-not-mega menu-item-1950"><a href="http://lazathemes.com/demo/lazanews/vulputate-velit-esse-molestie-consequat/">YouTube Post</a></li>
+	<li id="menu-item-1959" class="menu-item menu-item-type-post_type menu-item-object-post rst-not-mega menu-item-1959"><a href="http://lazathemes.com/demo/lazanews/bent-claritatem-insitam-est-usus-legentis/">Vimeo Post</a></li>
+	<li id="menu-item-1973" class="menu-item menu-item-type-post_type menu-item-object-post rst-not-mega menu-item-1973"><a href="http://lazathemes.com/demo/lazanews/ber-tempor-cum-soluta-nobis-eleifend-option-congue/">Gallery Post</a></li>
+</ul>
+</li>
+<li id="menu-item-1652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children rst-not-mega menu-item-1652"><a href="#">Categories</a>
+<ul class="sub-menu">
+	<li id="menu-item-1653" class="menu-item menu-item-type-taxonomy menu-item-object-category rst-not-mega menu-item-1653"><a href="http://lazathemes.com/demo/lazanews/category/grid-template/">Grid Template</a></li>
+	<li id="menu-item-1688" class="menu-item menu-item-type-taxonomy menu-item-object-category rst-not-mega menu-item-1688"><a href="http://lazathemes.com/demo/lazanews/category/list-template/">List Template</a></li>
+	<li id="menu-item-1668" class="menu-item menu-item-type-taxonomy menu-item-object-category rst-not-mega menu-item-1668"><a href="http://lazathemes.com/demo/lazanews/category/masory-template/">Masory Template</a></li>
+	<li id="menu-item-1698" class="menu-item menu-item-type-taxonomy menu-item-object-category rst-not-mega menu-item-1698"><a href="http://lazathemes.com/demo/lazanews/category/large-template/">Large Template</a></li>
+	<li id="menu-item-1697" class="menu-item menu-item-type-taxonomy menu-item-object-category rst-not-mega menu-item-1697"><a href="http://lazathemes.com/demo/lazanews/category/grid-first-lagre/">Grid &#038; First Lagre Template</a></li>
+	<li id="menu-item-1692" class="menu-item menu-item-type-taxonomy menu-item-object-category rst-not-mega menu-item-1692"><a href="http://lazathemes.com/demo/lazanews/category/list-first-large/">List &#038; First Large Template</a></li>
+</ul>
+</li>
+<li id="menu-item-1051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children rst-not-mega menu-item-1051"><a href="#">Pages</a>
+<ul class="sub-menu">
+	<li id="menu-item-1057" class="menu-item menu-item-type-custom menu-item-object-custom rst-not-mega menu-item-1057"><a href="http://lazathemes.com/demo/lazanews/?author=1">Author Pages</a></li>
+	<li id="menu-item-1055" class="menu-item menu-item-type-custom menu-item-object-custom rst-not-mega menu-item-1055"><a href="http://lazathemes.com/demo/lazanews/?s=lorem">Search Page</a></li>
+	<li id="menu-item-1056" class="menu-item menu-item-type-custom menu-item-object-custom rst-not-mega menu-item-1056"><a href="http://lazathemes.com/demo/lazanews/?p=868768">404 Pages</a></li>
+</ul>
+</li>
+</ul>		</div>
+	</nav>
+</div>	</div><!--End-header-->
+	<div class="rows main-menu rst-top-main-menu-full header-sticky border-line">
+	<form class="search-form" action="http://lazathemes.com/demo/lazanews">
+	<div class="ub-search">
+		<input type="text" placeholder="Search ..." name="s" />
+		<button type="submit" value="Search" class="sb"></button>
+		<input class="sb" type="submit" value="Search">
+	</div><!--End-search-->
+</form>	<nav role="navigation" class="navbar navbar-default" id="myNavbar-stick"> 
+	 <div class="navbar-header">
+		<button data-target="#navbarCollapse-stick" data-toggle="collapse" class="navbar-toggle" type="button"> 
+			<span class="sr-only">Toggle navigation</span> 
+			<span class="icon-bar"></span> 
+			<span class="icon-bar"></span> 
+			<span class="icon-bar"></span>
+			<span class="text-menu-mobile">Menu</span>
+		</button>
+	 </div>
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div id="navbarCollapse-stick" class="collapse navbar-collapse">
+			<div class="logo-fixed">
+							<a href="http://lazathemes.com/demo/lazanews">
+					<img src="http://lazathemes.com/demo/lazanews/wp-content/uploads/2015/07/logo_mini.png" alt="Laza News">
+				</a>
+						</div>
+			<ul id="menu-main-menu-1" class="rst-nav-menu row"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first menu-item-has-children rst-mega-menu category_with_sub menu-item-1536"><a href="http://lazathemes.com/demo/lazanews/category/food-health/">Mega Menu</a><div class="ub-mega-grid sub-menu"><div class="ub-mega-child-cats"><a data-index="0" class="ub-terms-child active" href="javascript:;">All</a><script type="text/javascript">var rst_5dd25336d44af = new rst_blocks();rst_5dd25336d44af.atts = '{"posts_per_page":4,"category":"43"}';rst_5dd25336d44af.url = 'http://lazathemes.com/demo/lazanews/wp-admin/admin-ajax.php';</script><a data-index="1" data-key="rst_5dd25336d44af" class="ub-terms-child" href="http://lazathemes.com/demo/lazanews/category/food-health/drink/">Drink</a><script type="text/javascript">var rst_5dd25336d45bb = new rst_blocks();rst_5dd25336d45bb.atts = '{"posts_per_page":4,"category":"20"}';rst_5dd25336d45bb.url = 'http://lazathemes.com/demo/lazanews/wp-admin/admin-ajax.php';</script><a data-index="2" data-key="rst_5dd25336d45bb" class="ub-terms-child" href="http://lazathemes.com/demo/lazanews/category/food-health/food/">Food</a><script type="text/javascript">var rst_5dd25336d469c = new rst_blocks();rst_5dd25336d469c.atts = '{"posts_per_page":4,"category":"23"}';rst_5dd25336d469c.url = 'http://lazathemes.com/demo/lazanews/wp-admin/admin-ajax.php';</script><a data-index="3" data-key="rst_5dd25336d469c" class="ub-terms-child" href="http://lazathemes.com/demo/lazanews/category/food-health/health/">Health</a></div><div class="rst-menu-posts"><div class="ub-loading">
+			<div class="loader">
+				<p><b>LOADING</b></p>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</div><div class="rst-list-post-of-category category-all active clearfix"><div class="ub-post-menu col-xs-3 col-md-3"><a href="http://lazathemes.com/demo/lazanews/560/"><div class="ub-thumbnail"><img src="http://lazathemes.com/demo/lazanews/wp-content/uploads/bfi_thumb/food1-2zgzi6zeyg6mwtfksuzke8.jpg" alt="Lorem ipsum dolor sit amet sectetuer adipiscing"/></div><span>Lorem ipsum dolor sit amet sectetuer adipiscing</span></a></div><div class="ub-post-menu col-xs-3 col-md-3"><a href="http://lazathemes.com/demo/lazanews/facilisis-at-vero-eros-et-accumsa/"><div class="ub-thumbnail"><img src="http://lazathemes.com/demo/lazanews/wp-content/uploads/bfi_thumb/food9-2zgzptwk2menmyn3k7i800.jpg" alt="Facilisis at vero eros et accumsan et iusto"/></div><span>Facilisis at vero eros et accumsan et iusto</span></a></div><div class="ub-post-menu col-xs-3 col-md-3"><a href="http://lazathemes.com/demo/lazanews/typi-non-habent-claritatem-insitam/"><div class="ub-thumbnail"><img src="http://lazathemes.com/demo/lazanews/wp-content/uploads/bfi_thumb/food8-2zgzoq7665z5fmrluh30u8.jpg" alt="legentis in iis qui facit eorum claritatem  investigationes"/></div><span>legentis in iis qui facit eorum claritatem  investigationes</span></a></div><div class="ub-post-menu col-xs-3 col-md-3"><a href="http://lazathemes.com/demo/lazanews/claritas-est-etiam-processus-dynamicus-qui-sequitur-mutationem/"><div class="ub-thumbnail"><img src="http://lazathemes.com/demo/lazanews/wp-content/uploads/bfi_thumb/food7-2zgzo538t0fijhd54y0v7k.jpg" alt="Claritas est etiam processus dynamicus, qui sequitur"/></div><span>Claritas est etiam processus dynamicus, qui sequitur</span></a></div></div><div class="rst-list-post-of-category category-drink"></div><div class="rst-list-post-of-category category-food"></div><div class="rst-list-post-of-category category-health"></div></div></div><a class="rst-display-none"></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children rst-not-mega menu-item-1050"><a href="#">Post Formats</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post rst-not-mega menu-item-1960"><a href="http://lazathemes.com/demo/lazanews/ostrud-exerci-tation-ullamcorper-suscipit/">Standard Post</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post rst-not-mega menu-item-1950"><a href="http://lazathemes.com/demo/lazanews/vulputate-velit-esse-molestie-consequat/">YouTube Post</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post rst-not-mega menu-item-1959"><a href="http://lazathemes.com/demo/lazanews/bent-claritatem-insitam-est-usus-legentis/">Vimeo Post</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post rst-not-mega menu-item-1973"><a href="http://lazathemes.com/demo/lazanews/ber-tempor-cum-soluta-nobis-eleifend-option-congue/">Gallery Post</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children rst-not-mega menu-item-1652"><a href="#">Categories</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category rst-not-mega menu-item-1653"><a href="http://lazathemes.com/demo/lazanews/category/grid-template/">Grid Template</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category rst-not-mega menu-item-1688"><a href="http://lazathemes.com/demo/lazanews/category/list-template/">List Template</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category rst-not-mega menu-item-1668"><a href="http://lazathemes.com/demo/lazanews/category/masory-template/">Masory Template</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category rst-not-mega menu-item-1698"><a href="http://lazathemes.com/demo/lazanews/category/large-template/">Large Template</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category rst-not-mega menu-item-1697"><a href="http://lazathemes.com/demo/lazanews/category/grid-first-lagre/">Grid &#038; First Lagre Template</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category rst-not-mega menu-item-1692"><a href="http://lazathemes.com/demo/lazanews/category/list-first-large/">List &#038; First Large Template</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children rst-not-mega menu-item-1051"><a href="#">Pages</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom rst-not-mega menu-item-1057"><a href="http://lazathemes.com/demo/lazanews/?author=1">Author Pages</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom rst-not-mega menu-item-1055"><a href="http://lazathemes.com/demo/lazanews/?s=lorem">Search Page</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom rst-not-mega menu-item-1056"><a href="http://lazathemes.com/demo/lazanews/?p=868768">404 Pages</a></li>
+</ul>
+</li>
+</ul>		</div>
+	</nav>
+		<div class="rst-top-search pull-right">
+		<a href="javascript:void(0)"><i class="fa fa-search"></i></a>
+	</div>
+	</div>
+	<div id="primary" class="content-area">
+
+		<section class="row error-404 not-found">
+			<div class="col-sm-12">
+				<header class="page-header-404">
+					<h1>Error 404</h1>
+					<h3>Page Not Found!</h3>
+				</header><!-- .page-header -->
+
+				<div class="page-content">
+					<p>Please go back to home or try again.</p>
+
+					<form class="search-form" action="http://lazathemes.com/demo/lazanews">
+	<div class="ub-search">
+		<input type="text" placeholder="Search ..." name="s" />
+		<button type="submit" value="Search" class="sb"></button>
+		<input class="sb" type="submit" value="Search">
+	</div><!--End-search-->
+</form>
+					<a class="ub-button" href="http://lazathemes.com/demo/lazanews">Go home</a>
+				</div><!-- .page-content -->
+			</div>
+		</section><!-- .error-404 -->
+
+	</div><!-- #primary -->
+
+
+		<!-- footer
+		================================================== -->	
+		<div id="footer">
+			<div class="row top-footer ">
+				<div class="col-sm-12 col-md-4">
+	<aside id="ubtheme-about-widget-1" class="widget widget_about"><h3 class="widget-title"><span>About</span></h3><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad</p>
+<p class="mail"><a href="mailto:contactmail@demo.com"><i class="fa fa-envelope"></i> contactmail@demo.com</a></p></aside></div>
+<div class="col-sm-12 col-md-4">
+	<aside id="tag_cloud-1" class="widget widget_tag_cloud"><h3 class="widget-title"><span>Popular Tags</span></h3><div class="tagcloud"><a href='http://lazathemes.com/demo/lazanews/tag/cake/' class='tag-link-49' title='1 topic' style='font-size: 8pt;'>Cake</a>
+<a href='http://lazathemes.com/demo/lazanews/tag/camera/' class='tag-link-61' title='1 topic' style='font-size: 8pt;'>camera</a>
+<a href='http://lazathemes.com/demo/lazanews/tag/cocktail/' class='tag-link-48' title='1 topic' style='font-size: 8pt;'>cocktail</a>
+<a href='http://lazathemes.com/demo/lazanews/tag/color/' class='tag-link-55' title='1 topic' style='font-size: 8pt;'>color</a>
+<a href='http://lazathemes.com/demo/lazanews/tag/devices/' class='tag-link-59' title='5 topics' style='font-size: 18.3384615385pt;'>devices</a>
+<a href='http://lazathemes.com/demo/lazanews/tag/drink/' class='tag-link-46' title='6 topics' style='font-size: 19.8461538462pt;'>Drink</a>
+<a href='http://lazathemes.com/demo/lazanews/tag/food/' class='tag-link-44' title='7 topics' style='font-size: 20.9230769231pt;'>Food</a>
+<a href='http://lazathemes.com/demo/lazanews/tag/health/' class='tag-link-45' title='8 topics' style='font-size: 22pt;'>Health</a>
+<a href='http://lazathemes.com/demo/lazanews/tag/lifestyle/' class='tag-link-51' title='2 topics' style='font-size: 11.8769230769pt;'>LifeStyle</a>
+<a href='http://lazathemes.com/demo/lazanews/tag/mobile/' class='tag-link-60' title='1 topic' style='font-size: 8pt;'>mobile</a>
+<a href='http://lazathemes.com/demo/lazanews/tag/relax/' class='tag-link-56' title='2 topics' style='font-size: 11.8769230769pt;'>relax</a>
+<a href='http://lazathemes.com/demo/lazanews/tag/street/' class='tag-link-52' title='4 topics' style='font-size: 16.6153846154pt;'>Street</a>
+<a href='http://lazathemes.com/demo/lazanews/tag/tea/' class='tag-link-50' title='1 topic' style='font-size: 8pt;'>Tea</a>
+<a href='http://lazathemes.com/demo/lazanews/tag/technology/' class='tag-link-58' title='4 topics' style='font-size: 16.6153846154pt;'>technology</a>
+<a href='http://lazathemes.com/demo/lazanews/tag/travel/' class='tag-link-54' title='5 topics' style='font-size: 18.3384615385pt;'>travel</a>
+<a href='http://lazathemes.com/demo/lazanews/tag/wine/' class='tag-link-47' title='1 topic' style='font-size: 8pt;'>Wine</a></div>
+</aside></div>
+<div class="col-sm-12 col-md-4">
+	<aside id="newsletterwidget-12" class="widget widget_newsletterwidget"><h3 class="widget-title"><span>Mailing List</span></h3>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+
+<script type="text/javascript">
+//<![CDATA[
+if (typeof newsletter_check !== "function") {
+window.newsletter_check = function (f) {
+    var re = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-]{1,})+\.)+([a-zA-Z0-9]{2,})+$/;
+    if (!re.test(f.elements["ne"].value)) {
+        alert("The email is not correct");
+        return false;
+    }
+    for (var i=1; i<20; i++) {
+    if (f.elements["np" + i] && f.elements["np" + i].required && f.elements["np" + i].value == "") {
+        alert("");
+        return false;
+    }
+    }
+    if (f.elements["ny"] && !f.elements["ny"].checked) {
+        alert("You must accept the privacy statement");
+        return false;
+    }
+    return true;
+}
+}
+//]]>
+</script>
+
+<div class="newsletter newsletter-widget">
+
+<script type="text/javascript">
+//<![CDATA[
+if (typeof newsletter_check !== "function") {
+window.newsletter_check = function (f) {
+    var re = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-]{1,})+\.)+([a-zA-Z0-9]{2,})+$/;
+    if (!re.test(f.elements["ne"].value)) {
+        alert("The email is not correct");
+        return false;
+    }
+    for (var i=1; i<20; i++) {
+    if (f.elements["np" + i] && f.elements["np" + i].required && f.elements["np" + i].value == "") {
+        alert("");
+        return false;
+    }
+    }
+    if (f.elements["ny"] && !f.elements["ny"].checked) {
+        alert("You must accept the privacy statement");
+        return false;
+    }
+    return true;
+}
+}
+//]]>
+</script>
+
+<form action="http://lazathemes.com/demo/lazanews/wp-content/plugins/newsletter/do/subscribe.php" onsubmit="return newsletter_check(this)" method="post"><input type="hidden" name="nr" value="widget"/><p><input class="newsletter-email" type="email" required name="ne" value="Email" onclick="if (this.defaultValue==this.value) this.value=''" onblur="if (this.value=='') this.value=this.defaultValue"/></p><p><input class="newsletter-submit" type="submit" value="Subscribe"/></p></form></div></aside></div>			</div><!--End-top-footer-->
+			<div class="hr"></div>
+			<div class="bottom-footer clearfix">
+				<p class="pull-left">Copyright 2015 LazaTheme. All Rights Reserved.</p>
+				<div class="pull-right">
+					<ul class="rst-list-social">
+		<li><a target="_blank" href="#"><i class="fa fa-facebook"></i></a></li>
+			<li><a target="_blank" href="#"><i class="fa fa-google-plus"></i></a></li>
+			<li><a target="_blank" href="#"><i class="fa fa-twitter"></i></a></li>
+			<li><a target="_blank" href="#"><i class="fa fa-tumblr"></i></a></li>
+					<li><a target="_blank" href="#"><i class="fa fa-linkedin"></i></a></li>
+														</ul>				</div>
+			</div><!--End-bottom-footer-->
+		</div><!--End-footer-->           
+    </div><!--End-wrapper-->
+    <script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/lazathemes.com\/demo\/lazanews\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2.1'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/inc/rating/js/rating.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/inc/menu-mega/js/custom-front.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/bxslider/jquery.bxslider.min.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/jquery.backstretch.min.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/bootstrap.min.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/holder.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/jquery.stickit.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/jquery.sticky-kit.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/fancybox/jquery.fancybox.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/fancybox/helpers/jquery.fancybox-media.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/PgwSlider-master/pgwslider.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/isotope.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/royalslider/jquery.royalslider.min.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/jquery.fitvids.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/picturefill.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/jquery.vticker.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/custom.js?ver=4.2.25'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-content/themes/lazanews/js/ajax.js?ver=4.2.25'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/demo\/lazanews\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.16.4-a'></script>
+<script type='text/javascript' src='http://lazathemes.com/demo/lazanews/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.2.25'></script>
+</body>
+</html>
