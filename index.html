@@ -160,19 +160,146 @@ img.emoji {
 
 <script type="text/javascript">
 	$(document).ready(function(){
-		
-
+ 
 		$.ajax({
-        url: "https://apistatuschinthakal.in/chinthapp/getdataforhomepage.php",
-        method: "POST",
-        data: {},
-         success: function(result,status,jqXHR ){
-              alert("Ok");
-         },
-         error(jqXHR, textStatus, errorThrown){
-             //Do something
-         }
-	});
+          url: 'https://apistatuschinthakal.in/chinthapp/getdataforhomepage.php',
+          type: 'GET',
+          dataType: 'text',
+          headers: {
+          },
+          crossDomain: true,
+          success: function (data, textStatus, xhr) {
+			var arr=data.split("###");
+
+var story=arr[0];
+var yathra=arr[1];
+var arogyam=arr[2];
+var sangethikam=arr[3];
+var soundharyam=arr[4];
+var cinima=arr[5];
+
+			if(story!="" && story!=null)
+			{
+				var dts=story.split(":%");
+				var html="";
+				for(var i=0;i<dts.length;i++)
+				{ 
+				 var dates=dts[i];
+				 i=i+1;	
+				 var title=dts[i];
+				 i=i+1;
+				 var pageurl=dts[i];
+				 i=i+1;
+				 var imgsrc=dts[i];
+				  html=html+"<div class='row horizontal-news'><div class='col-sm-12 list-item-horizontal-news'><div class='row'><div class='col-sm-12 item-horizontal-news'><a class='thumbnail ub-thumbnail ub-post-format-'' href='"+pageurl+"' target='_blank'><img alt='"+title+"' src='"+imgsrc+"'><span class='wrap-overlay'><span class='fa overlay-icon'></span></span></a><h4 class='ub-post-title'><a href='"+pageurl+"' target='_blank'><span style='font-size:15px;'>"+title+"</span></a></h4><div class='ub-post-infor'><span class='date'>"+dates+"</span></div><div class='clear'></div></div></div></div></div>"
+				}
+				$('#storydata').html(html);
+			}
+		
+			if(yathra!="" && yathra!=null)
+			{
+				var dts=yathra.split(":%");
+				var html="";
+				for(var i=0;i<dts.length;i++)
+				{ 
+				 var dates=dts[i];
+				 i=i+1;	
+				 var title=dts[i];
+				 i=i+1;
+				 var pageurl=dts[i];
+				 i=i+1;
+				 var imgsrc=dts[i];
+				  html=html+"<div class='row horizontal-news'><div class='col-sm-12 list-item-horizontal-news'><div class='row'><div class='col-sm-12 item-horizontal-news'><a class='thumbnail ub-thumbnail ub-post-format-'' href='"+pageurl+"' target='_blank'><img alt='"+title+"' src='"+imgsrc+"'><span class='wrap-overlay'><span class='fa overlay-icon'></span></span></a><h4 class='ub-post-title'><a href='"+pageurl+"' target='_blank'><span style='font-size:15px;'>"+title+"</span></a></h4><div class='ub-post-infor'><span class='date'>"+dates+"</span></div><div class='clear'></div></div></div></div></div>"
+				}
+				$('#yathradata').html(html);
+			}
+			if(arogyam!="" && arogyam!=null)
+			{
+				var dts=arogyam.split(":%");
+				var html="";
+				for(var i=0;i<dts.length;i++)
+				{ 
+				 var dates=dts[i];
+				 i=i+1;	
+				 var title=dts[i];
+				 i=i+1;
+				 var pageurl=dts[i];
+				 i=i+1;
+				 var imgsrc=dts[i];
+				  html=html+"<div class='row horizontal-news'><div class='col-sm-12 list-item-horizontal-news'><div class='row'><div class='col-sm-12 item-horizontal-news'><a class='thumbnail ub-thumbnail ub-post-format-'' href='"+pageurl+"' target='_blank'><img alt='"+title+"' src='"+imgsrc+"'><span class='wrap-overlay'><span class='fa overlay-icon'></span></span></a><h4 class='ub-post-title'><a href='"+pageurl+"' target='_blank'><span style='font-size:15px;'>"+title+"</span></a></h4><div class='ub-post-infor'><span class='date'>"+dates+"</span></div><div class='clear'></div></div></div></div></div>"
+				}
+				$('#arogyamdata').html(html);
+			}
+			if(sangethikam!="" && sangethikam!=null)
+			{
+				var dts=sangethikam.split(":%");
+				var html="";
+				for(var i=0;i<dts.length;i++)
+				{ 
+				 var dates=dts[i];
+				 i=i+1;	
+				 var title=dts[i];
+				 i=i+1;
+				 var pageurl=dts[i];
+				 i=i+1;
+				 var imgsrc=dts[i];
+				  html=html+"<div class='row horizontal-news'><div class='col-sm-12 list-item-horizontal-news'><div class='row'><div class='col-sm-12 item-horizontal-news'><a class='thumbnail ub-thumbnail ub-post-format-'' href='"+pageurl+"' target='_blank'><img alt='"+title+"' src='"+imgsrc+"'><span class='wrap-overlay'><span class='fa overlay-icon'></span></span></a><h4 class='ub-post-title'><a href='"+pageurl+"' target='_blank'><span style='font-size:15px;'>"+title+"</span></a></h4><div class='ub-post-infor'><span class='date'>"+dates+"</span></div><div class='clear'></div></div></div></div></div>"
+				}
+				$('#sangethikamdata').html(html);
+			}
+			if(soundharyam!="" && soundharyam!=null)
+			{
+				var dts=soundharyam.split(":%");
+				var html="";
+				for(var i=0;i<dts.length;i++)
+				{ 
+				 var dates=dts[i];
+				 i=i+1;	
+				 var title=dts[i];
+				 i=i+1;
+				 var pageurl=dts[i];
+				 i=i+1;
+				 var imgsrc=dts[i];
+				  html=html+"<div class='row horizontal-news'><div class='col-sm-12 list-item-horizontal-news'><div class='row'><div class='col-sm-12 item-horizontal-news'><a class='thumbnail ub-thumbnail ub-post-format-'' href='"+pageurl+"' target='_blank'><img alt='"+title+"' src='"+imgsrc+"'><span class='wrap-overlay'><span class='fa overlay-icon'></span></span></a><h4 class='ub-post-title'><a href='"+pageurl+"' target='_blank'><span style='font-size:15px;'>"+title+"</span></a></h4><div class='ub-post-infor'><span class='date'>"+dates+"</span></div><div class='clear'></div></div></div></div></div>"
+				}
+				$('#soundaryamdata').html(html);
+			}
+
+			if(cinima!="" && cinima!=null)
+			{
+				var dts=cinima.split(":%");
+				var html="";
+				for(var i=0;i<dts.length;i++)
+				{ 
+				 var dates=dts[i];
+				 i=i+1;	
+				 var title=dts[i];
+				 i=i+1;
+				 var pageurl=dts[i];
+				 i=i+1;
+				 var imgsrc=dts[i];
+				  html=html+"<div class='row horizontal-news'><div class='col-sm-12 list-item-horizontal-news'><div class='row'><div class='col-sm-12 item-horizontal-news'><a class='thumbnail ub-thumbnail ub-post-format-'' href='"+pageurl+"' target='_blank'><img alt='"+title+"' src='"+imgsrc+"'><span class='wrap-overlay'><span class='fa overlay-icon'></span></span></a><h4 class='ub-post-title'><a href='"+pageurl+"' target='_blank'><span style='font-size:15px;'>"+title+"</span></a></h4><div class='ub-post-infor'><span class='date'>"+dates+"</span></div><div class='clear'></div></div></div></div></div>"
+				}
+				$('#cinimadata').html(html);
+			}
+
+          },
+          error: function (xhr, textStatus, errorThrown) {
+            
+          }
+        });
+
+	// 	$.ajax({
+    //     url: "https://apistatuschinthakal.in/chinthapp/getdataforhomepage.php",
+	// 	method: "GET",
+	// 	crossDomain: true,
+    //     dataType: 'jsonp',
+    //      success: function(result,status,jqXHR ){
+    //           alert("Ok");
+    //      },
+    //      error(jqXHR, textStatus, errorThrown){
+    //      }
+	// });
 
 	  });
 </script>
@@ -208,26 +335,12 @@ img.emoji {
 		<div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">	<div class="wrap-horizontal-news ub-vertical ">
 		<h2 class="rs-title-box"><span>കഥ</span></h2>
 
-		<div class="row horizontal-news">
-							 
-				<div class="col-sm-12 list-item-horizontal-news"><div class="row">
-					 <div class="col-sm-12 item-horizontal-news">
-								 <a class="thumbnail ub-thumbnail ub-post-format-" href="zzril-delenit-augue-duis-dolore-te-feugait-nulla-facilisi/index.html">
-									<img alt="Zzril delenit augue duis dolore te feugait nulla facilisi" src="wp-content/uploads/2015/07/travel5-235x164.jpg">
-									<span class="wrap-overlay"><span class="fa overlay-icon"></span></span></a>
-									 <h4 class="ub-post-title"><a href="zzril-delenit-augue-duis-dolore-te-feugait-nulla-facilisi/index.html">Zzril delenit augue duis dolore te feugait nulla facilisi</a></h4>
-								<div class="ub-post-infor">	
-									<span class="date" itemprop="dateCreated" datetime="2015-07-11T06:51:35+00:00" >	<a href='2015/07/11/index.html'>July 11, 2015</a>
-</span>
-								</div><div class="clear"></div>
-							</div>
-						</div>
+		<div id="storydata">
 
-				</div></div>
+		
 
-
-				
-				<!--<ul class="ub-list-category"><li><a href="#" target="_blank"><p>View All</p></a></li></ul>-->
+		</div>
+		<ul><li><a href="#" target="_blank"><span style="font-size: 10px;color:green">View All</span></li></ul>
 		</div>
 	</div></div></div>
 
@@ -236,94 +349,48 @@ img.emoji {
 
 	<div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">	<div class="wrap-horizontal-news ub-vertical ">
 		<h2 class="rs-title-box"><span>യാത്ര</span></h2>
+		<div id="yathradata">
 
-		<div class="row horizontal-news">
-							 
-				<div class="col-sm-12 list-item-horizontal-news"><div class="row">
-					 <div class="col-sm-12 item-horizontal-news">
-								 <a class="thumbnail ub-thumbnail ub-post-format-" href="zzril-delenit-augue-duis-dolore-te-feugait-nulla-facilisi/index.html">
-									<img alt="Zzril delenit augue duis dolore te feugait nulla facilisi" src="wp-content/uploads/2015/07/travel5-235x164.jpg">
-									<span class="wrap-overlay"><span class="fa overlay-icon"></span></span></a>
-									 <h4 class="ub-post-title"><a href="zzril-delenit-augue-duis-dolore-te-feugait-nulla-facilisi/index.html">Zzril delenit augue duis dolore te feugait nulla facilisi</a></h4>
-								<div class="ub-post-infor">	
-									<span class="date" itemprop="dateCreated" datetime="2015-07-11T06:51:35+00:00" >	<a href='2015/07/11/index.html'>July 11, 2015</a>
-</span>
-								</div><div class="clear"></div>
-							</div>
-						</div>
+		
 
-				</div></div>
-				<!--<ul class="ub-list-category"><li><a href="#" target="_blank"><p>View All</p></a></li></ul>-->
+		</div>
+		<ul><li><a href="#" target="_blank"><span style="font-size: 10px;color:green">View All</span></li></ul>
 		</div>
 	</div></div></div>
 
 	<div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">	<div class="wrap-horizontal-news ub-vertical ">
 		<h2 class="rs-title-box"><span>ആരോഗ്യം</span></h2>
 
-		<div class="row horizontal-news">
-							 
-				<div class="col-sm-12 list-item-horizontal-news"><div class="row">
-					 <div class="col-sm-12 item-horizontal-news">
-								 <a class="thumbnail ub-thumbnail ub-post-format-" href="zzril-delenit-augue-duis-dolore-te-feugait-nulla-facilisi/index.html">
-									<img alt="Zzril delenit augue duis dolore te feugait nulla facilisi" src="wp-content/uploads/2015/07/travel5-235x164.jpg">
-									<span class="wrap-overlay"><span class="fa overlay-icon"></span></span></a>
-									 <h4 class="ub-post-title"><a href="zzril-delenit-augue-duis-dolore-te-feugait-nulla-facilisi/index.html">Zzril delenit augue duis dolore te feugait nulla facilisi</a></h4>
-								<div class="ub-post-infor">	
-									<span class="date" itemprop="dateCreated" datetime="2015-07-11T06:51:35+00:00" >	<a href='2015/07/11/index.html'>July 11, 2015</a>
-</span>
-								</div><div class="clear"></div>
-							</div>
-						</div>
+		<div id="arogyamdata">
 
-				</div></div>
-				<!--<ul class="ub-list-category"><li><a href="#" target="_blank"><p>View All</p></a></li></ul>-->
+		
+
+		</div>
+		<ul><li><a href="#" target="_blank"><span style="font-size: 10px;color:green">View All</span></li></ul>
 		</div>
 	</div></div></div>
 
 	<div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">	<div class="wrap-horizontal-news ub-vertical ">
 		<h2 class="rs-title-box"><span>സാങ്കേതികം</span></h2>
 
-		<div class="row horizontal-news">
-							 
-				<div class="col-sm-12 list-item-horizontal-news"><div class="row">
-					 <div class="col-sm-12 item-horizontal-news">
-								 <a class="thumbnail ub-thumbnail ub-post-format-" href="zzril-delenit-augue-duis-dolore-te-feugait-nulla-facilisi/index.html">
-									<img alt="Zzril delenit augue duis dolore te feugait nulla facilisi" src="wp-content/uploads/2015/07/travel5-235x164.jpg">
-									<span class="wrap-overlay"><span class="fa overlay-icon"></span></span></a>
-									 <h4 class="ub-post-title"><a href="zzril-delenit-augue-duis-dolore-te-feugait-nulla-facilisi/index.html">Zzril delenit augue duis dolore te feugait nulla facilisi</a></h4>
-								<div class="ub-post-infor">	
-									<span class="date" itemprop="dateCreated" datetime="2015-07-11T06:51:35+00:00" >	<a href='2015/07/11/index.html'>July 11, 2015</a>
-</span>
-								</div><div class="clear"></div>
-							</div>
-						</div>
+		<div id="sangethikamdata">
 
-				</div></div>
-				<!--<ul class="ub-list-category"><li><a href="#" target="_blank"><p>View All</p></a></li></ul>-->
+		
+
+		</div>
+		<ul><li><a href="#" target="_blank"><span style="font-size: 10px;color:green">View All</span></li></ul>
 		</div>
 	</div></div></div>
-
-
 	<div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">	<div class="wrap-horizontal-news ub-vertical ">
 		<h2 class="rs-title-box"><span>സൗന്ദര്യം</span></h2>
 
-		<div class="row horizontal-news">
-							 
-				<div class="col-sm-12 list-item-horizontal-news"><div class="row">
-					 <div class="col-sm-12 item-horizontal-news">
-								 <a class="thumbnail ub-thumbnail ub-post-format-" href="zzril-delenit-augue-duis-dolore-te-feugait-nulla-facilisi/index.html">
-									<img alt="Zzril delenit augue duis dolore te feugait nulla facilisi" src="wp-content/uploads/2015/07/travel5-235x164.jpg">
-									<span class="wrap-overlay"><span class="fa overlay-icon"></span></span></a>
-									 <h4 class="ub-post-title"><a href="zzril-delenit-augue-duis-dolore-te-feugait-nulla-facilisi/index.html">Zzril delenit augue duis dolore te feugait nulla facilisi</a></h4>
-								<div class="ub-post-infor">	
-									<span class="date" itemprop="dateCreated" datetime="2015-07-11T06:51:35+00:00" >	<a href='2015/07/11/index.html'>July 11, 2015</a>
-</span>
-								</div><div class="clear"></div>
-							</div>
-						</div>
+	 
+		<div id="soundaryamdata">
 
-				</div></div>
-				<!--<ul class="ub-list-category"><li><a href="#" target="_blank"><p>View All</p></a></li></ul>-->
+		
+
+		</div>
+		<ul><li><a href="#" target="_blank"><span style="font-size: 10px;color:green">View All</span></li></ul>
 		</div>
 	</div></div></div>
 
@@ -331,23 +398,14 @@ img.emoji {
 	<div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">	<div class="wrap-horizontal-news ub-vertical ">
 		<h2 class="rs-title-box"><span>സിനിമ</span></h2>
 
-		<div class="row horizontal-news">
-							 
-				<div class="col-sm-12 list-item-horizontal-news"><div class="row">
-					 <div class="col-sm-12 item-horizontal-news">
-								 <a class="thumbnail ub-thumbnail ub-post-format-" href="zzril-delenit-augue-duis-dolore-te-feugait-nulla-facilisi/index.html">
-									<img alt="Zzril delenit augue duis dolore te feugait nulla facilisi" src="wp-content/uploads/2015/07/travel5-235x164.jpg">
-									<span class="wrap-overlay"><span class="fa overlay-icon"></span></span></a>
-									 <h4 class="ub-post-title"><a href="zzril-delenit-augue-duis-dolore-te-feugait-nulla-facilisi/index.html">Zzril delenit augue duis dolore te feugait nulla facilisi</a></h4>
-								<div class="ub-post-infor">	
-									<span class="date" itemprop="dateCreated" datetime="2015-07-11T06:51:35+00:00" >	<a href='2015/07/11/index.html'>July 11, 2015</a>
-</span>
-								</div><div class="clear"></div>
-							</div>
-						</div>
+		 
+		<div id="cinimadata">
 
+		
+
+		</div>
 				</div></div>
-				<!--<ul class="ub-list-category"><li><a href="#" target="_blank"><p>View All</p></a></li></ul>-->
+				<ul><li><a href="#" target="_blank"><span style="font-size: 10px;color:green">View All</span></li></ul>
 		</div>
 	</div></div></div>
 
